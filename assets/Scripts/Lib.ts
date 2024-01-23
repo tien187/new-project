@@ -7,6 +7,7 @@ export class Lib {
     public static test(){
         // code 1 nui trong day
         var a=0;
+var b=1;
     }
     public static outSideCam(sprite:SpriteRenderer,c:Camera,type:number): boolean {
         if(type==0){
