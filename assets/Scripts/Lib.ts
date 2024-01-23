@@ -9,6 +9,7 @@ export class Lib {
         var a=0;
 	var b=1;
 var c=100;
+var d=10000;
     }
     public static outSideCam(sprite:SpriteRenderer,c:Camera,type:number): boolean {
         if(type==0){
