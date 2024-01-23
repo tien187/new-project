@@ -5,7 +5,7 @@ const { ccclass, property } = _decorator;
 export class Lib {
   
     public static test(){
-        
+        // code 1 nui trong day
     }
     public static outSideCam(sprite:SpriteRenderer,c:Camera,type:number): boolean {
         if(type==0){
